@@ -1,0 +1,18 @@
+body{
+	background-color: white;
+}
+.name{
+	font-size: 50px;
+	color: black;
+	text-decoration:underline;
+	float: left;
+	padding-top: 30px;
+	padding-left: 20px;
+}
+.add{
+	font-size: 30px;
+	color: black;
+	float: right;
+	padding-top: 20px;
+}
+
